@@ -1,0 +1,70 @@
+body{
+    background: #3498db;
+    font-family: sans-serif;
+}
+
+h2{
+    color: #000;
+}
+
+.login{
+    padding:2em;
+    margin : 2em auto;
+    width: 30em;
+    background: #ffffff;
+    border-radius: 10px;
+}
+
+.card{
+    padding:0.5em;
+    margin : 2em auto;
+    width: 38em;
+    background: #000000;
+    border-radius: 10px;
+}
+input[type="number"]{
+    padding: 15px;
+    width: 40%;
+    background: #efefef;
+    border: 0;
+    font-size: 15pt;
+    margin: 6px 0px;
+}
+
+textarea{
+    padding: 40px;
+    width: 80%;
+    background: #efefef;
+    border: 0;
+    font-size: 15pt;
+    margin: 6px 0px;
+}
+
+.tombol{
+    background: #3498db;
+    color: #fff;
+    border: 0;
+    padding: 15px 35px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+table{
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 50%;
+    border: 1px solid #f2f5f7;
+}
+
+table tr th{
+    background: red;
+    color: #fff;
+    font-weight: normal;
+}
+
+table, th, td{
+    padding: 8px 20px;
+    text-align: center;
+    background:#ffffff;
+}
